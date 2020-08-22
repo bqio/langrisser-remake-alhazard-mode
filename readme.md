@@ -4,3 +4,6 @@
 
 # Uninstall
 Replace modifed Assembly-CSharp.dll to raw Assembly-CSharp.dll and remove mods directory.
+
+# Preview
+[See youtube](https://www.youtube.com/watch?v=xoEWW9PXsDs)
