@@ -1,0 +1,45 @@
+{
+    "slotType": 2,
+    "unitType": 0,
+    "conditions": 1,
+    "commandRange": 0,
+    "commandAT": 0,
+    "commandDF": 0,
+    "commandMAT": 0,
+    "commandMDF": 0,
+    "unitAT": 0,
+    "unitDF": 0,
+    "unitMAT": 0,
+    "unitMDF": 0,
+    "move": 0,
+    "HP": 0,
+    "MP": 0,
+    "dexterity": 0,
+    "agility": 0,
+    "price": 10,
+    "specialEffects": 0,
+    "changeFlag": -1,
+    "changeItem": 0,
+    "learningMagic": 54,
+    "learningSkill": -1,
+    "learningMercenary": -1,
+    "animeFileName": "アクセサリー",
+    "name": [
+        "終末の魔狼",
+        "True Alhazard Power",
+        "末日魔狼",
+        "종말의 마랑"
+    ],
+    "description": [
+        "装備することで消滅するが、召喚魔法「フェンリル」を修得できる書物。\r\nただし「グレイプニール」を装備していなければ召喚魔法は使用できない。\r\n",
+        "True Alhazard power for summoning demons.\r\n<#88aaff>Cannot summon unless True Alhazard is equipped.",
+        "裝備後即刻消失，可掌握召喚魔法「魔狼芬里爾」的書籍。\r\n不過，如果沒有裝備「魔狼鎖鏈」則無法使用此召喚魔法。\r\n",
+        "장비하면 소멸되지만, 소환마법 「펜릴」을 습득할 수 있는 책.\r\n다만 「글레이프니르」를 장비하지 않으면 소환 마법을 사용할 수 없다.\r\n"
+    ],
+    "descriptionShort": [
+        "特になし\r\n",
+        "None\r\n",
+        "無特殊效果\r\n",
+        "특별히 없음\r\n"
+    ]
+}

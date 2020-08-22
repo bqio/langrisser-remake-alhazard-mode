@@ -1,0 +1,45 @@
+{
+    "slotType": 0,
+    "unitType": 0,
+    "conditions": 1,
+    "commandRange": 0,
+    "commandAT": 0,
+    "commandDF": 0,
+    "commandMAT": 0,
+    "commandMDF": 0,
+    "unitAT": 100,
+    "unitDF": 100,
+    "unitMAT": 0,
+    "unitMDF": 0,
+    "move": 0,
+    "HP": 0,
+    "MP": 150,
+    "dexterity": 0,
+    "agility": 0,
+    "price": 10,
+    "specialEffects": 0,
+    "changeFlag": -1,
+    "changeItem": 0,
+    "learningMagic": -1,
+    "learningSkill": -1,
+    "learningMercenary": -1,
+    "animeFileName": "武器",
+    "name": [
+        "真アルハザード",
+        "True Alhazard",
+        "真・阿魯哈薩特",
+        "진 알하자드"
+    ],
+    "description": [
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n封印を解かれた伝説の魔剣。魔族を操り世界さえ滅ぼす力がある。\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\nThe legendary Cursed Sword, unsealed. It boasts the power to control demons and destroy the world.\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n解開封印後的傳說魔劍。擁有控制魔族，毀滅世界的力量。\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n봉인이 풀린 전설의 마검. 마족을 조종하고 세계마저 멸망시키는 힘이 있다.\r\n"
+    ],
+    "descriptionShort": [
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n",
+        "ATK<#ffdd00>+100<#ffffff>　DEF<#ffdd00>+100<#ffffff>　MP<#88aaff>+150<#ffffff>　\r\n"
+    ]
+}
